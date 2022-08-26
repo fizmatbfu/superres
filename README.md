@@ -1,7 +1,7 @@
 # superres
 Simple superres python script
 
-Requirements : Python 3.5+, cv2
+Requirements : Python 3.5+, opencv_python, opencv_contrib
 
 Usage:
 1. Add images to 'source' folder
